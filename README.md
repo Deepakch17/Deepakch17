@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Deepakch17
 - 👀 I’m interested in ... coding, gaming
-- 🌱 I’m currently learning ... pyhton and DSA
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... pyhton and DSA 
 
 <!---
 Deepakch17/Deepakch17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
